@@ -1,0 +1,65 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(168, 42, 42);
+    color: white;
+    margin: 0;
+}
+
+header {
+    
+}
+
+.button {
+    
+}
+
+nav {
+    background-color: aliceblue;
+    margin: 5px;
+    text-align: center;
+}
+
+nav a{
+    text-decoration: none;
+    margin: 50px;
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
+h1 {
+text-align: center;
+}
+
+p {
+    font-size: 20px;
+}
+
+.info {
+   
+}
+
+article {
+   
+}
+
+.article-but {
+    
+}
+
+footer {
+   
+}
+
+footer a {
+    
+}
+
+footer p {
+}
+
+.aa{
+    width: 80%;
+    height: 80%;
+}
